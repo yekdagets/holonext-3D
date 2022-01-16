@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/holonext-3d/static/css/main.7ebb8861.css",
+    "main.js": "/holonext-3d/static/js/main.fce02e5a.js",
+    "static/js/787.97fc46ce.chunk.js": "/holonext-3d/static/js/787.97fc46ce.chunk.js",
+    "index.html": "/holonext-3d/index.html",
+    "main.7ebb8861.css.map": "/holonext-3d/static/css/main.7ebb8861.css.map",
+    "main.fce02e5a.js.map": "/holonext-3d/static/js/main.fce02e5a.js.map",
+    "787.97fc46ce.chunk.js.map": "/holonext-3d/static/js/787.97fc46ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ebb8861.css",
+    "static/js/main.fce02e5a.js"
+  ]
+}
