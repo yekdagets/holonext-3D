@@ -1,9 +1,7 @@
 import React from "react";
-// import { ThemeProvider } from "styled-components";
-// import { theme } from "./theme";
+
 import "./App.css";
-// import { Grid, Typography, Stack } from "@mui/material";
-// import Slider from "./components/Slider";
+
 import HamburgerMenu from "./components/HamburgerMenu";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./components/Pages/Home";
